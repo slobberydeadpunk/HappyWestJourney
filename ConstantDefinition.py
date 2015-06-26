@@ -1,0 +1,4 @@
+__author__ = 'Jackie'
+
+TEAM_MEMBER_COUNT = 6
+LAST_TEAM_MEMBER_INDEX = 5
